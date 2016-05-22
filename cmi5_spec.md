@@ -144,6 +144,7 @@ __Convert Working Draft to Markdown in GitHub (Feb 20, 2013):__
 | Jacques Talvard      | Airbus                                 |
 | William A. McDonald  | Boeing                                 |
 | Ray Lowery           | Pratt &amp; Whitney                    |
+| Dennis Hall          | Learning Templates                     |
 | John Kleeman         | Questionmark                           |
 | Kris Rockwell        | Hybrid Learning Systems                |
 | Paul Roberts         | Questionmark                           |
